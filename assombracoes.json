@@ -1,5 +1,4 @@
-{
-     "assombracoes" : [{
+[{
       "nome" : "Boca de ouro",
       "id" : 1,
       "coords": {"lat": -8.058005, "lng": -34.871069},
@@ -12,4 +11,3 @@
       "status": false,
       "tipo": "Entidade"
       }]
-    }
