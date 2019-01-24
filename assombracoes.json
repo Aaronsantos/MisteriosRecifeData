@@ -10,4 +10,31 @@
       "img": null,
       "status": false,
       "tipo": "Entidade"
+      },
+      {
+        "nome" : "Templo Maçônico da Conciliação",
+        "id" : 2,
+        "coords": {"lat": -8.06214, "lng": -34.8852543},
+        "local": "Boa Vista",
+        "localCurto": "Boa Vista",
+        "descricao":  "Fundado em 1907, para ser a casa de algumas Lojas Maçônicas pernambucanas, o prédio também recebia políticos e autoridades da época para encontros e festas abertos ao público. Atualmente o Templo Conciliação abriga as atividades de seis lojas, entre elas a Saint George, criada em 1904, e a loja de mesmo nome, Conciliação, fundada em 1859.",
+        "epoca": "Sec XIX",
+        "range": 100,
+        "img": null,
+        "status": false,
+        "tipo": "Local"
+        },
+      {
+        "nome" : "Praça chora menino",
+        "id" : 3,
+        "coords": {"lat": -8.0604456, "lng": -34.8970212},
+        "local": "Boa Vista",
+        "localCurto": "Boa Vista",
+        "descricao":  "E esse nome vem de relatos que começaram a circular tempos depois da Setembrizada: dizia-se que quem passasse altas horas da noite perto da praça ouvia sempre choro de menino. Certamente tentou-se dar explicações “científicas” para o fato, de brincadeiras de estudantes a um tipo de sapo cujo coaxar seria semelhante ao choro de uma criança. Mas quem ouviu o estranho lamento nega-se a aceitar tais teorias tão pouco consistentes: o pranto fantasmagórico, por certo, não tem semelhança com sons emitidos pelos viventes. É há quem diga que mesmo nos dias de hoje, se prestarmos bem atenção, vamos escutar os soluços e choramingos daquelas pequenas vítimas de um massacre provocado pela intransigência dos adultos.",
+        "epoca": "Sec XIX",
+        "range": 100,
+        "img": null,
+        "status": false,
+        "tipo": "Local"
+        
       }]
